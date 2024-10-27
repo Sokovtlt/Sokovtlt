@@ -3,9 +3,6 @@
 </div>
 <br> 
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/sokovtlt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/sergey-sokov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
@@ -14,6 +11,9 @@
   </a>
   <a href="mailto: sokov.tlt@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-yellow?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+    <a href="https://www.instagram.com/sokovtlt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
  <br> <br> <br> 
 
