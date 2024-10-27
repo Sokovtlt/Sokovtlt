@@ -9,7 +9,7 @@
   <a href="https://t.me/Sokov_sk" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto: sokov.tlt@gmail.com" target="_blank">
+  <a href="mailto:sokov.tlt@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-yellow?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
     <a href="https://www.instagram.com/sokovtlt" target="_blank">
